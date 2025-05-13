@@ -18,3 +18,19 @@ A Python-based tool to generate all possible password combinations using advance
 - Real-time progress display
 - Output to file or terminal
 - Fast performance using Python generators
+## Installation
+`git clone https://github.com/trfahim/advanced-bruteforce-password-generator.git`
+`cd advanced-bruteforce-password-generator`
+`pip install -r requirements.txt`
+`python tr_cracker.py`
+
+
+## 🧠 Use Cases
+- Ethical hacking labs
+- Password recovery tests
+- Cybersecurity education
+- Red team assessments
+
+##  ⚠️ Disclaimer
+This tool is intended only for legal, ethical, and educational purposes. Do not use it to access unauthorized accounts, networks, or systems.
+The developer is not responsible for any misuse.
