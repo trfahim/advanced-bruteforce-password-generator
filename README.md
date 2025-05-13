@@ -37,5 +37,5 @@ The developer is not responsible for any misuse.
 
 ## 👨‍💻 Author
 **TR FAHIM**
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tahsan.rahman.fahim)
-[!Youtube](https://www.youtube.com/@tr_cyberlab)
+[[Facebook](https://facebook.com/tahsan.rahman.fahim)
+[Youtube](https://www.youtube.com/@tr_cyberlab)
