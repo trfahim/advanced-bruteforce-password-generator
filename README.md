@@ -37,5 +37,5 @@ The developer is not responsible for any misuse.
 
 ## 👨‍💻 Author
 **TR FAHIM**
-[[Facebook](https://facebook.com/tahsan.rahman.fahim)
-[Youtube](https://www.youtube.com/@tr_cyberlab)
+[[Facebook]](https://facebook.com/tahsan.rahman.fahim)
+[[Youtube]](https://www.youtube.com/@tr_cyberlab)
