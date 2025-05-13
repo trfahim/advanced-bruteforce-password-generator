@@ -19,10 +19,10 @@ A Python-based tool to generate all possible password combinations using advance
 - Output to file or terminal
 - Fast performance using Python generators
 ## Installation
-`git clone https://github.com/trfahim/advanced-bruteforce-password-generator.git`
-`cd advanced-bruteforce-password-generator`
-`pip install -r requirements.txt`
-`python tr_cracker.py`
+- `git clone https://github.com/trfahim/advanced-bruteforce-password-generator.git`
+- `cd advanced-bruteforce-password-generator`
+- `pip install -r requirements.txt`
+- `python tr_cracker.py`
 
 
 ## 🧠 Use Cases
