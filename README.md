@@ -18,7 +18,7 @@ A Python-based tool to generate all possible password combinations using advance
 - Real-time progress display
 - Output to file or terminal
 - Fast performance using Python generators
-## Installation
+## 💻 Installation
 - `git clone https://github.com/trfahim/advanced-bruteforce-password-generator.git`
 - `cd advanced-bruteforce-password-generator`
 - `pip install -r requirements.txt`
@@ -34,3 +34,8 @@ A Python-based tool to generate all possible password combinations using advance
 ##  ⚠️ Disclaimer
 This tool is intended only for legal, ethical, and educational purposes. Do not use it to access unauthorized accounts, networks, or systems.
 The developer is not responsible for any misuse.
+
+## 👨‍💻 Author
+**TR FAHIM**
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tahsan.rahman.fahim)
+[!Youtube](https://www.youtube.com/@tr_cyberlab)
